@@ -1,7 +1,6 @@
 - 👋 Hi, I’m T1MI
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning data structures and algorithm
-- 💞️ I’m looking to collaborate on projects
+- 💞️ Looking to collaborate on projects and open source😃
 - 📫 you can reach me at tunmisebabade@gmail.com
 - phone number: +2349120701811
 
